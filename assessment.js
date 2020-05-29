@@ -100,3 +100,4 @@ console.assert(
   assessment("太郎") === assessment("太郎"),
   "同じ診断結果を出力できていません"
 );
+ 
